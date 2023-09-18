@@ -4,3 +4,4 @@ Exercícios relativos ao terceiro módulo do curso de Desenvolvimento de Softwar
 ## Conteúdos:
 - Consultas SQL
 - Funções PostgreSQL
+- 
