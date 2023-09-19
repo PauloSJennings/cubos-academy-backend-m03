@@ -5,3 +5,4 @@ Exercícios relativos ao terceiro módulo do curso de Desenvolvimento de Softwar
 - Consultas SQL
 - Funções PostgreSQL
 - CRUD SQL
+- Modelagem de dados
