@@ -7,3 +7,5 @@ Exercícios relativos ao terceiro módulo do curso de Desenvolvimento de Softwar
 - CRUD SQL
 - Modelagem de dados
 - Conexão Node.js com banco de dados PostgreSQL
+- Autenticação e Criptografia
+- Conexão com API de terceiros
